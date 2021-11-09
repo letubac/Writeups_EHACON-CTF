@@ -9,7 +9,7 @@
 
 - f5 để xem chương trình chính 
 
-![image](https://user-images.githubusercontent.com/57956165/140960445-5fd034a5-0107-4260-80c8-1a9de7bc698e.png)
+![image](https://user-images.githubusercontent.com/57956165/140962102-203ffeec-b5a7-462e-97e7-d38afab70e32.png)
 
 - Xem qua chương trình thì thấy nó bắt chúng ta nhập vào một chuỗi ký tự, sau đó nó sử dụng hàm atoi để chuyển 1 chuỗi thành 1 số nguyên và trừ đi 22153
 
