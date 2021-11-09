@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/57956165/140960498-e1b2ff07-4669-47bf-b914-ba85690d79cb.png)
 
 - vì OLL được ký int64, cho nên để nhập đầu vào thứ 2 thì fd = 0. Như vậy tôi sẽ nhập 22153 để trừ đi 22153 và sau đó fd = 0 và tôi có thể nhập đầu vào thứ 2. 
-- Bây giờ đầu vào thứ 2 chúng ta thấy buf sẽ nắm giữ để đi so sánh với chuỗi LEMMEIN, còn "\n" chính à ký tự Enter (xuống dòng)
+- Bây giờ đầu vào thứ 2 chúng ta thấy buf sẽ nắm giữ để đi so sánh với chuỗi LEMMEIN, còn "\n" chính là ký tự Enter (xuống dòng)
 
 ![image](https://user-images.githubusercontent.com/57956165/140961856-4fe7aa21-aa58-4155-aa49-bbed6f143e63.png)
 
